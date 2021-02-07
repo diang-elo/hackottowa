@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+Inspiration
+Our inspiration for the website was Discord. Seeing how that software could bring gamers together. We decided we we wanted to do the same thing but with with coworkers, and friends giving them a place where people can relax and have a laugh with people during their free time from work, especially with the pandemic affecting mental health. To bring as many people together to de-stress was our goal.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+What it does
+RELIEF is a place for you to take a step back, relax, and collect yourself before getting back into your daily routine. RELIEF has many different ways to help you de-stress, whether your stress is caused by individual, organizational, or environmental factors, we definitely have a way to help you! RELEIF has multiple stress relief options including meditation, gameplay, and an interactive chatroom.
 
-## Available Scripts
+How we built it
+We built it using react with firebase.
 
-In the project directory, you can run:
+Challenges we ran into
+We are all fairly new to web development so we were learning everything on the fly. Getting things in the desired position on the website was a challenge. As well as making the website looks as intended on different screen sizes.
 
-### `npm start`
+Accomplishments that we're proud of
+We're proud of the final submitted product. The simple chic look gives our website the intended relaxing, stress free environment. We are proud of how much we accomplished with how little knowledge we had to begin with.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+What we learned
+We learned that there's a bunch of resources outside of school that teaches you how to code things (YouTube) We learned our productivity level sky rocketed while participating in the hackathon. We learned that even in isolation there are still people willing to share their wisdom despite not know who we are, it gives us the motivation to eventually do what the mentor, organizers, and sponsors are doing.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+What's next for RELIEF
+We are focusing on developing a mobile app just like how we had it Adding multiple single player and multi player games for users to enjoy. Adding more functionality to the chat. Adding more music to the meditation room with a more interactive interface.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Built With
+css3
+firebase
+github
+html5
+javascript
+photoshop
+react
+Try it out
+ kind-noyce-15320b.netlify.app
