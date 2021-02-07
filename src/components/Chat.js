@@ -15,13 +15,7 @@ import { Link } from 'react-router-dom';
 
 
 firebase.initializeApp({
-    apiKey: "AIzaSyDrxyMszMoV0JPbXZ38V3cd2il2LhC4I50",
-    authDomain: "chat-app-c9529.firebaseapp.com",
-    projectId: "chat-app-c9529",
-    storageBucket: "chat-app-c9529.appspot.com",
-    messagingSenderId: "623526542480",
-    appId: "1:623526542480:web:8dfeba2b71a92e6040ec15",
-    measurementId: "G-RYV3H9ZKR1"
+    //my info
 })
 
 const auth = firebase.auth();
